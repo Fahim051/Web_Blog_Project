@@ -1,0 +1,148 @@
+.navbar-nav li{
+    font-weight: bold;
+    font-size: 1em;
+}
+h3{
+    min-height: 190px;
+    text-align: center;
+    color: #1c7430;
+}
+#Footer{
+    padding: 10px;
+    color: black;
+    background-color: white;
+    text-align: center;
+}
+
+
+.navbar .nav-link{
+    font-family: Bahnschrift SemiLight;
+    font-size: 17px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+}
+
+
+
+
+.blogpost{
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    overflow: hidden;
+}
+#heading{
+    font-family: Bahnschrift SemiLight;
+    color: darkslategray;
+
+}
+
+
+.description{
+    font-size: 14px;
+    color: tomato;
+    font-weight: bold;
+    margin-top: -3px;
+
+}
+.post{
+    font-size: 14px;
+    font-family: Arial;
+    color: black;
+    text-align: justify;
+}
+.btn-outline-info{
+    float: right;
+
+}
+
+.col-sm-3 h2{
+    text-align: center;
+}
+
+.col-sm-3 p {
+    text-align: center;
+}
+
+.imageicon{
+    max-width: 170px;
+
+    margin: 0 auto;
+    display: block;
+}
+.card-title{
+    text-align: center;
+}
+
+
+
+/*Home*/
+
+
+.k{
+    text-align: center;
+    font-family: Bahnschrift Light;
+    color: darkslategray;
+
+}
+.h{
+    font-family: Brush Script MT;
+    text-align: center;
+    margin-top: -450px;
+    color: white;
+    font-size: 90px;
+
+}
+
+
+.card-header{
+    color: white;
+}
+.card{
+    margin-top: 100px;
+}
+.ctgry{
+    margin-top: 250px;
+}
+.video {
+    margin-left: 30px;
+}
+
+
+
+/*About Us*/
+
+#page-header{
+    height: 200px;
+    background: url('../images/lalakhal-sylhet-ruposhi-bangladesh.png') ;
+    background-position: 0 -360px;
+    background-attachment: fixed;
+    color: #fff;
+    border-bottom: #fff;
+    padding-top: 100px;
+}
+
+.about-img{
+    margin-top: -50px;
+}
+.p{
+    margin-top: 50px;
+}
+.he{
+    margin-top: 40px;
+
+}
+.x{
+    color: white;
+    size: 35px;
+    font-family: Arial;
+    margin-top: -15px;
+}
+
+/*Contract*/
+.e{
+    font-family: "Arial";
+}
+

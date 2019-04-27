@@ -1,0 +1,67 @@
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+body{
+    background-color: #1a3a51;
+}
+
+.navbar-nav li{
+    font-weight: bold;
+    font-size: 1em;
+}
+
+.navbar .nav-link{
+    font-family: Bahnschrift SemiLight;
+    font-size: 17px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+}
+
+
+
+.col-sm-10{
+    background-color: #ffffff;
+}
+
+#Side_Menu a{
+    color: #9fb1c2;
+    margin: 10px;
+    font-family: sans-serif;
+    position: fixed;
+    width: 200px;
+    text-decoration: none;
+
+
+}
+
+#Side_Menu .active a{
+    color: #ffffff;
+    background-color: #27AAE1;
+    font-weight: bold;
+}
+
+#Side_Menu a:hover{
+    color: #ffffff;
+    background-color: #1ab394;
+    font-weight: bold;
+    display: block;
+}
+
+.footer{
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#Footer{
+    padding: 10px;
+    border-top: 1px solid black;
+    color: #eeeeee;
+    text-align: center;
+}
